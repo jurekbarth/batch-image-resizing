@@ -1,0 +1,9 @@
+{
+  "name": "imagemagick-resizer",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "jimp": "^0.2.28"
+  }
+}
